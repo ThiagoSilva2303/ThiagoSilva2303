@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>My name is Thiago Silva,</h1>
+<h1>Thiago Silva,</h1>
 
 <p> Starting to take the first steps to become a software developer.</p>
 <p> Knowing my first technologies and in constant evolution :computer: :rocket:</p>
