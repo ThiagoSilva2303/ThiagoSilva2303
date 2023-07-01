@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Thiago Silva,</h1>
 
-<p> Starting to take the first steps to become a software developer.</p>
+<p> Starting to take the first steps to become a web developer.</p>
 <p> Knowing my first technologies and in constant evolution :computer: :rocket:</p>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
